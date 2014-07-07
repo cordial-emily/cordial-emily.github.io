@@ -645,12 +645,12 @@ div.viewcode-block:target {
    font-weight: normal;
    color: #3465a4;
    margin-bottom: .8em;
+   line-height: 1.3em;
   
  }
  
  h1 {
    color: #204a87;
-   line-height: 1.1em;
    text-align: left;
    
  }
@@ -708,16 +708,17 @@ div.viewcode-block:target {
   color: #3465a4;
   margin-bottom: .8em;
   word-break: break-all;
+  line-height: 1.1em;
  }
   h3 {
   font-weight: normal;
   color: #3465a4;
   margin-bottom: .8em;
+  line-height: 1.1em;
   }
  
  h1 {
    color: #204a87;
-   line-height: 1.1em;
    text-align: left;
    word-break: break-all;
  }
@@ -771,12 +772,12 @@ div.viewcode-block:target {
    font-weight: normal;
    color: #3465a4;
    margin-bottom: .8em;
+   line-height: 1.3em;
   
  }
  
  h1 {
    color: #204a87;
-   line-height: 1.1em;
    text-align: left;
    
  }
